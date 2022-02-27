@@ -1,0 +1,27 @@
+
+1. Raluca: Pluto TV. Remuneracion: 4000 USD. Manual y automation Proyecto streaming. Esperando 2 entrevista. Voy a recibir correo para 2 entrevista la semana que viene.
+2. Virginia Pudain: Codelitt. Lunes 12:30 hs
+3. Manuela Macedo: aprende.com. jueves 16:30 segunda entrevista (entrevista tecnica). me van a dar un ejercicio de tc para que resuelva en un maximo de 3 dias.
+
+
+-------------------------------------------------------------------------REPASO SQL------------------------------------------------------------------------------------
+
+1.https://sqlzoo.net/wiki/SELECT_basics
+
+-------------------------------------------------------------------------REPASO COSAS HECHAS------------------------------------------------------------------------------------
+
+-Regression testing: It's performed after new features were implemented thru several sprints. It usually takes places when a release to PROD is going to happen. 
+-AWS CloudWatch: It's a tool used to monitor an app. It provides detailed information about APIs executed, time of the execution, results of the execution, error mapping
+success messages, etc.
+-DataDog, Splunk, Catchpoint, mPulse: monitoring tool.PARECIDO A NEW RELIC. I also JMeter. I verified logs accessing to UNIX/LDAP servers
+-Proceso de release en K12: testing of features (or US) in sprints searching data from DB+(regression testing of new features performed a sprint behind using PROD like data+
+automated smoke in next environment+smoke test and specific testing around new features in green environment(pre-prod with prod like data)+smoke in blue or live 
+environment(smoke test, specific testing around new features, health checks of API services, queries in involved tables of DBs and verification to make sure that new 
+version of apps were released to corresponding instances in new relic)
+-CI/CD: Jenkins, AWS, Azure DevOps, GitLab, Bitbucket
+
+
+manual+plus automation
+algunas herramientas automation. va a hablar ocn alan y me van a decir los siguientes pasos. en caso de entrar tal vez en 15 dias estaria en el proyecto. depende de la necesidad
+del cliente.
+
